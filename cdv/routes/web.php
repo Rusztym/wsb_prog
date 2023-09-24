@@ -2,7 +2,7 @@
 
 use App\Http\Controllers\ProfileController;
 use Illuminate\Support\Facades\Route;
-
+use App\Http\Controllers\KontrolerStart;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -14,6 +14,14 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
+
+
+Route::get('/', [KontrolerStart::class, 'start']);
+Route::get('/kontakt', [KontrolerStart::class, 'kontakt'])->name('kontakt');
+Route::get('/onas', [KontrolerStart::class, 'onas'])->name('onas');
+
+
+/* STARY ROUTING
 Route::get('/', function () {
     return view('layout');
 });
@@ -30,7 +38,7 @@ Route::get('/onas', function () {
     ];
     return view('ogolny.onas', ['zadania' => $zadania]);
 })->name('onas');
-
+*/
 
 
 
