@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MessDetectorOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PHPCSFixerOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PHPCodeSnifferOptionsConfiguration">
+    <option name="highlightLevel" value="WARNING" />
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/cdv/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/cdv/vendor/spatie/backtrace" />
+      <path value="$PROJECT_DIR$/cdv/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/cdv/vendor/spatie/ignition" />
+      <path value="$PROJECT_DIR$/cdv/vendor/spatie/flare-client-php" />
+      <path value="$PROJECT_DIR$/cdv/vendor/spatie/laravel-ignition" />
+      <path value="$PROJECT_DIR$/cdv/vendor/fakerphp/faker" />
+      <path value="$PROJECT_DIR$/cdv/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/cdv/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/cdv/vendor/fruitcake/php-cors" />
+      <path value="$PROJECT_DIR$/cdv/vendor/guzzlehttp/uri-template" />
+      <path value="$PROJECT_DIR$/cdv/vendor/graham-campbell/result-type" />
+      <path value="$PROJECT_DIR$/cdv/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/cdv/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/cdv/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/cdv/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/cdv/vendor/brick/math" />
+      <path value="$PROJECT_DIR$/cdv/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/cdv/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/cdv/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/cdv/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/cdv/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/cdv/vendor/sebastian/lines-of-code" />
+      <path value="$PROJECT_DIR$/cdv/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/cdv/vendor/dflydev/dot-access-data" />
+      <path value="$PROJECT_DIR$/cdv/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/cdv/vendor/sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/cdv/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/cdv/vendor/sebastian/cli-parser" />
+      <path value="$PROJECT_DIR$/cdv/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/cdv/vendor/sebastian/complexity" />
+      <path value="$PROJECT_DIR$/cdv/vendor/nette/schema" />
+      <path value="$PROJECT_DIR$/cdv/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/cdv/vendor/nette/utils" />
+      <path value="$PROJECT_DIR$/cdv/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/cdv/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/cdv/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/cdv/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/cdv/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/cdv/vendor/ramsey/collection" />
+      <path value="$PROJECT_DIR$/cdv/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/cdv/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/cdv/vendor/voku/portable-ascii" />
+      <path value="$PROJECT_DIR$/cdv/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/cdv/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/cdv/vendor/psr/clock" />
+      <path value="$PROJECT_DIR$/cdv/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/cdv/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/cdv/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/cdv/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/cdv/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/cdv/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/cdv/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/cdv/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/cdv/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/cdv/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/cdv/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/cdv/vendor/symfony/polyfill-php83" />
+      <path value="$PROJECT_DIR$/cdv/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/cdv/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/cdv/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/cdv/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/cdv/vendor/symfony/mailer" />
+      <path value="$PROJECT_DIR$/cdv/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/cdv/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/cdv/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/cdv/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/cdv/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/cdv/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/cdv/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/cdv/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/cdv/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/cdv/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/cdv/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/cdv/vendor/composer" />
+      <path value="$PROJECT_DIR$/cdv/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/cdv/vendor/symfony/uid" />
+      <path value="$PROJECT_DIR$/cdv/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/cdv/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/cdv/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/cdv/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/cdv/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/cdv/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/cdv/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/cdv/vendor/symfony/polyfill-uuid" />
+      <path value="$PROJECT_DIR$/cdv/vendor/nunomaduro/termwind" />
+      <path value="$PROJECT_DIR$/cdv/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/cdv/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/cdv/vendor/laravel/breeze" />
+      <path value="$PROJECT_DIR$/cdv/vendor/laravel/prompts" />
+      <path value="$PROJECT_DIR$/cdv/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/cdv/vendor/laravel/sanctum" />
+      <path value="$PROJECT_DIR$/cdv/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/cdv/vendor/laravel/serializable-closure" />
+      <path value="$PROJECT_DIR$/cdv/vendor/laravel/pint" />
+      <path value="$PROJECT_DIR$/cdv/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/cdv/vendor/laravel/sail" />
+      <path value="$PROJECT_DIR$/cdv/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/cdv/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/cdv/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/cdv/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/cdv/vendor/league/config" />
+      <path value="$PROJECT_DIR$/cdv/vendor/league/commonmark" />
+      <path value="$PROJECT_DIR$/cdv/vendor/league/mime-type-detection" />
+      <path value="$PROJECT_DIR$/cdv/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/cdv/vendor/league/flysystem-local" />
+      <path value="$PROJECT_DIR$/cdv/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/cdv/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/cdv/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/cdv/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/cdv/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/cdv/vendor/phpunit/php-timer" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="8.1" />
+  <component name="PhpStanOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <PhpUnitSettings configuration_file_path="$PROJECT_DIR$/cdv/phpunit.xml" custom_loader_path="$PROJECT_DIR$/cdv/vendor/autoload.php" use_configuration_file="true" />
+    </phpunit_settings>
+  </component>
+  <component name="PsalmOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+</project>
